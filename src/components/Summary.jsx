@@ -2,7 +2,6 @@ import React, { useEffect } from "react";
 
 const Summary = (props) => {
   const { summary } = props;
-
   return (
     <div>
       <p className="mx-3 md:mx-10 mt-6 text-2xl font-bold dark:text-gray-100">
